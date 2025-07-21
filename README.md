@@ -64,7 +64,7 @@ Contoh Studi Kasus (Opsional)
 Jika bingung memilih tema, berikut beberapa contoh kasus sederhana yang bisa digunakan:
 
 - Todo List
-  - - Link GitHub versi Sederhana: https://github.com/RickyIG/nextjs-jda-6-redux-todo-app
+  - Link GitHub versi Sederhana: https://github.com/RickyIG/nextjs-jda-6-redux-todo-app
   - Komponen A: Form input untuk menambahkan todo (dispatch action addTodo)
   - Komponen B: Menampilkan daftar todo (menggunakan useSelector)
 - Form Input & Display
