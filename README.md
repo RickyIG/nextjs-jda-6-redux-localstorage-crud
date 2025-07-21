@@ -11,6 +11,7 @@
 <br />
 <div align="center">
 <h3 align="center">Todo List App using Redux (+ LocalStorage & operasi CRUD) -  RickyIG - Tugas Pertemuan Keenam</h3>
+<h3 align="center">Deployed Web App: https://nextjs-jda-6-redux-localstorage-cru.vercel.app/</h3>
 
   <p align="center">
     Tugas Pertemuan Keenam mengenai studi kasus Todo App versi lengkap dengan Redux dengan tambahan localstorage + CRUD (update dan delete lengkap)
