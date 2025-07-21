@@ -40,30 +40,30 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Tugas Pertemuan Keenam
+**Tugas Pertemuan Keenam**
 
-Tujuan Tugas:
+**Tujuan Tugas:**
 
 - Memahami konsep state management global dengan Redux
 - Melatih kemampuan mengakses dan memodifikasi state di berbagai komponen
 - Mengasah pemahaman komunikasi data antar komponen melalui store
 
 
-Deskripsi Tugas
+**Deskripsi Tugas**
 
 - Buatlah aplikasi sederhana dengan bebas tema yang memiliki ketentuan berikut:
 
-Ketentuan Utama:
+- Ketentuan Utama:
 
-- [x] Gunakan Redux sebagai state management global.
-- [x] Memiliki minimal 2 komponen berbeda yang:
-- [x] Mengakses state global menggunakan useSelector
-- [x] Mengubah state global menggunakan useDispatch
-- [x] Komponen A melakukan update atau menambahkan data ke store.
-- [x] Komponen B membaca data tersebut dan menampilkannya di UI.
+  - [x] Gunakan Redux sebagai state management global.
+  - [x] Memiliki minimal 2 komponen berbeda yang:
+  - [x] Mengakses state global menggunakan useSelector
+  - [x] Mengubah state global menggunakan useDispatch
+  - [x] Komponen A melakukan update atau menambahkan data ke store.
+  - [x] Komponen B membaca data tersebut dan menampilkannya di UI.
 
 
-Contoh Studi Kasus (Opsional)
+**Contoh Studi Kasus (Opsional)**
 
 Jika bingung memilih tema, berikut beberapa contoh kasus sederhana yang bisa digunakan:
 
