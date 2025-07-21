@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/RickyIG/nextjs-jda-6-redux-localstorage-crud">
-    <img src="assets/img/logo.png" alt="Logo" width="150" height="150">
+    <img src="public/img/logo.png" alt="Logo" width="150" height="150">
   </a>
 <h3 align="center">Todo List App using Redux (+ LocalStorage & operasi CRUD) -  RickyIG - Tugas Pertemuan Keenam</h3>
 <h3 align="center">Deployed Web App: https://nextjs-jda-6-redux-localstorage-cru.vercel.app/</h3>
