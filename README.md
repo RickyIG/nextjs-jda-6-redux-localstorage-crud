@@ -23,11 +23,11 @@
     <a href="https://github.com/RickyIG/Vehicle-counter-rickyig"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-<!--     <a href="https://github.com/RickyIG/Vehicle-counter-rickyig">View Demo</a>
+    <a href="https://nextjs-jda-6-redux-localstorage-cru.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/RickyIG/Vehicle-counter-rickyig/issues">Report Bug</a>
     ·
-    <a href="https://github.com/RickyIG/Vehicle-counter-rickyig/issues">Request Feature</a> -->
+    <a href="https://github.com/RickyIG/Vehicle-counter-rickyig/issues">Request Feature</a>
   </p>
 </div>
 
