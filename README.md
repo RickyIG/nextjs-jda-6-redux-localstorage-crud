@@ -19,9 +19,9 @@
   <p align="center">
     Tugas Pertemuan Keenam mengenai studi kasus Todo App versi lengkap dengan Redux dengan tambahan localstorage + CRUD (update dan delete lengkap)
     <br />
-    - Todo List App Versi Sederhana: https://github.com/RickyIG/nextjs-jda-6-redux-todo-app
+    → Todo List App Versi Sederhana: https://github.com/RickyIG/nextjs-jda-6-redux-todo-app
     <br />
-    - FormatInput & DisplayName App: https://github.com/RickyIG/nextjs-jda-6-redux-forminput-displaynama 
+    → FormatInput & DisplayName App: https://github.com/RickyIG/nextjs-jda-6-redux-forminput-displaynama 
     <br />
     <br />
     <a href="https://github.com/RickyIG/Vehicle-counter-rickyig"><strong>Explore the docs »</strong></a>
